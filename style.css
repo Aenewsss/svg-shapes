@@ -1,0 +1,23 @@
+html {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(236, 232, 227);
+}
+
+svg {
+    border: 2px solid rgb(0, 0, 0);
+}
+
+h1 {
+    text-align: center;
+    letter-spacing: 2px;
+    margin-bottom: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
